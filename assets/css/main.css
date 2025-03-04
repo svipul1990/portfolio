@@ -1402,6 +1402,7 @@ body.loaded {
 }
 
 .hero-image-box img {
+    max-width: 380px;
     border-radius: 38px;
     -webkit-transform: rotate(4.29deg);
     -ms-transform: rotate(4.29deg);
